@@ -1,6 +1,6 @@
 {
 	"name": "request_header",
-  "author": "Nikhil M Kumar",
+	"author": "Nikhil M Kumar",
 	"version": "0.0.1",
 	"description": "API project for freeCodeCamp",
 	"main": "server.js",
